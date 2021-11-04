@@ -1,0 +1,11 @@
+{
+  "default_title": {
+    "message": "Chrome Raising Cat"
+  },
+  "description": {
+    "message": "A chrome extension for raising a cat."
+  },
+  "name": {
+    "message": "Chrome Raising Cat"
+  }
+}
